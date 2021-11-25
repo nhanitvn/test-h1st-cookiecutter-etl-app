@@ -1,0 +1,6 @@
+apiVersion: v2
+name: "test-h1st-cookiecutter-etl-app-api"
+version: "0.0.1"
+description: API layer for Test H1st CookieCutter ETL App
+appVersion: "0.0.1"
+type: application
